@@ -1,0 +1,28 @@
+name: Sarko Meené
+favicon: null
+layout_spectrum: 0.15548662119545043
+typography_spectrum: 0.2462278821039945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3140237566549331
+  lightness: 0.6792244659736753
+  saturation: 0.32341718836687505
+  rhythmicContrast: 0.2697835804428905
+purpose: []
