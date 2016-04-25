@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Sarko Meené is an artist... yes she is '
-datePublished: '2016-04-25T07:25:46.048Z'
-dateModified: '2016-04-25T07:25:19.246Z'
+datePublished: '2016-04-25T19:48:23.461Z'
+dateModified: '2016-04-25T09:23:26.670Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-25-sarko-meene-is-an-artist-yes-she-is.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-25-sarko-meene-is-an-artist-yes-she-is.md
-published: true
+starred: true
 url: sarko-meene-is-an-artist-yes-she-is/index.html
 _type: Article
 
